@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "margherita",
+    "description": "Cherrytomater basilikum og olivenolie.",
+    "price": "95 kr",
+    "category": "Best Seller",
+    "image": "img/margherita.webp"
+  },
+  {
+    "id": 2,
+    "title": "Vin",
+    "description": "Quinta de Ramozeiros Red Reserve Douro 2016.",
+    "price": "120 kr",
+    "category": "New Arrival",
+    "image": "img/Vin.webp"
+  },
+
+  {
+    "id": 5,
+    "title": "Pizza",
+    "description": "Frokost Tilbud - Hawaii",
+    "price": "60 kr",
+    "category": "Deals",
+    "image": "img/hawaii.webp"
+  },
+  {
+    "id": 6,
+    "title": "Pizza",
+    "description": "Frokost Tilbud - Proscuitto E Funghi",
+    "price": "60 kr",
+    "category": "Deals",
+    "image": "img/Proscuitto_E_Funghi.webp"
+  }
+]
