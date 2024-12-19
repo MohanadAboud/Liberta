@@ -67,6 +67,9 @@ body {
   padding: 33px 50px 33px 20px;
   font-size: 0.9rem;
 }
+.cta {
+  border-left: 1px solid white;
+}
 
 .nav-btn .hamburger {
   display: none;
